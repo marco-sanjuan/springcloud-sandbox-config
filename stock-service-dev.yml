@@ -4,3 +4,4 @@ server:
 example:
   config:
     text: Example text for environment DEVELOPMENT
+    random: Random #{T(java.lang.Math).random()}
