@@ -1,0 +1,6 @@
+server:
+  port: 8005
+
+example:
+  config:
+    text: Example text for environment DEFAULT
