@@ -3,5 +3,4 @@ server:
 
 example:
   config:
-    text: Example text for environment DEVELOPMENT
-    author: Marco
+    text: Example text for environment DEVELOPMENT (changed text 1)
